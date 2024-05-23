@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tareqalwahsh666, I'm a programmer. 
+- ^_^ Im learning C++ and sfml.
+- My dream is to become a gameDev.
+- If you are reading this I wish you have a nice time.
+- ^_^
